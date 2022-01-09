@@ -1,5 +1,6 @@
 # kawayi-reminder
-vbs可爱的休息提醒
+
+vbs脚本，一个可爱的休息提醒小助手~
 
 ## 运行
 双击`master.vbs`
